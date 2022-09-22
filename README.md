@@ -1,5 +1,5 @@
 # MetadataMaker
-MetadataMaker is is a software that generates NFT metadata files in batches, input NFT attributes into csv file, and generate all json format files with one click. It is used under Windows without configuring various environmental parameters.
+MetadataMaker is a software that generates NFT metadata files in batches, input NFT attributes into csv file, and generate all json format files with one click. It is used under Windows without configuring various environmental parameters.
 
 Metadata Maker是一个批量生成NFT metadata文件的软件，将NFT属性输入到csv文件（每个一行），一键生成所有json格式文件。Windows下使用，无需配置各种环境参数。
 
