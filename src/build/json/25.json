@@ -1,0 +1,30 @@
+{
+    "name":"MyNFT #25",
+    "image":"ipfs://QmeSjSinHpPnmXmspMjwiXyN6zS4E9zccariGR3jxcaWtq/25.png",
+    "attributes":[
+        {
+            "trait_type":"Background",
+            "value":"Orange"
+        },
+        {
+            "trait_type":"Clothes",
+            "value":"Hawaiian"
+        },
+        {
+            "trait_type":"Eyes",
+            "value":"Bloodshot"
+        },
+        {
+            "trait_type":"Fur",
+            "value":"Pink"
+        },
+        {
+            "trait_type":"Hat",
+            "value":"Bayc Flipped Brim"
+        },
+        {
+            "trait_type":"Mouth",
+            "value":"Bored Unshaven Dagger"
+        }
+    ]
+}

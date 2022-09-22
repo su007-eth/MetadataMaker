@@ -1,0 +1,30 @@
+{
+    "name":"MyNFT #7",
+    "image":"ipfs://QmeSjSinHpPnmXmspMjwiXyN6zS4E9zccariGR3jxcaWtq/7.png",
+    "attributes":[
+        {
+            "trait_type":"Background",
+            "value":"New Punk Blue"
+        },
+        {
+            "trait_type":"Clothes",
+            "value":"Prison Jumpsuit"
+        },
+        {
+            "trait_type":"Eyes",
+            "value":"Bloodshot"
+        },
+        {
+            "trait_type":"Fur",
+            "value":"Death Bot"
+        },
+        {
+            "trait_type":"Hat",
+            "value":"Short Mohawk"
+        },
+        {
+            "trait_type":"Mouth",
+            "value":"Bored Unshaven Party horn"
+        }
+    ]
+}

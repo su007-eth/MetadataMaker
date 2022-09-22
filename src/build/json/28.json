@@ -1,0 +1,34 @@
+{
+    "name":"MyNFT #28",
+    "image":"ipfs://QmeSjSinHpPnmXmspMjwiXyN6zS4E9zccariGR3jxcaWtq/28.png",
+    "attributes":[
+        {
+            "trait_type":"Background",
+            "value":"Yellow"
+        },
+        {
+            "trait_type":"Clothes",
+            "value":"Smoking Jacket"
+        },
+        {
+            "trait_type":"Earring",
+            "value":"Gold Stud"
+        },
+        {
+            "trait_type":"Eyes",
+            "value":"Bloodshot"
+        },
+        {
+            "trait_type":"Fur",
+            "value":"Red"
+        },
+        {
+            "trait_type":"Hat",
+            "value":"Fisherman's Hat"
+        },
+        {
+            "trait_type":"Mouth",
+            "value":"Bored Unshaven Party horn"
+        }
+    ]
+}

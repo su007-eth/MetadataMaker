@@ -1,0 +1,34 @@
+{
+    "name":"MyNFT #37",
+    "image":"ipfs://QmeSjSinHpPnmXmspMjwiXyN6zS4E9zccariGR3jxcaWtq/37.png",
+    "attributes":[
+        {
+            "trait_type":"Background",
+            "value":"Orange"
+        },
+        {
+            "trait_type":"Clothes",
+            "value":"Black Holes T"
+        },
+        {
+            "trait_type":"Earring",
+            "value":"Diamond Stud"
+        },
+        {
+            "trait_type":"Eyes",
+            "value":"Zombie"
+        },
+        {
+            "trait_type":"Fur",
+            "value":"Brown"
+        },
+        {
+            "trait_type":"Hat",
+            "value":"Bayc Flipped Brim"
+        },
+        {
+            "trait_type":"Mouth",
+            "value":"Bored Unshaven Dagger"
+        }
+    ]
+}

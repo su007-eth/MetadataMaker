@@ -1,0 +1,34 @@
+{
+    "name":"MyNFT #24",
+    "image":"ipfs://QmeSjSinHpPnmXmspMjwiXyN6zS4E9zccariGR3jxcaWtq/24.png",
+    "attributes":[
+        {
+            "trait_type":"Background",
+            "value":"Yellow"
+        },
+        {
+            "trait_type":"Clothes",
+            "value":"Black Suit"
+        },
+        {
+            "trait_type":"Earring",
+            "value":"Gold Hoop"
+        },
+        {
+            "trait_type":"Eyes",
+            "value":"Sleepy"
+        },
+        {
+            "trait_type":"Fur",
+            "value":"Robot"
+        },
+        {
+            "trait_type":"Hat",
+            "value":"Beanie"
+        },
+        {
+            "trait_type":"Mouth",
+            "value":"Bored"
+        }
+    ]
+}

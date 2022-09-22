@@ -1,0 +1,26 @@
+{
+    "name":"MyNFT #40",
+    "image":"ipfs://QmeSjSinHpPnmXmspMjwiXyN6zS4E9zccariGR3jxcaWtq/40.png",
+    "attributes":[
+        {
+            "trait_type":"Background",
+            "value":"New Punk Blue"
+        },
+        {
+            "trait_type":"Eyes",
+            "value":"Bloodshot"
+        },
+        {
+            "trait_type":"Fur",
+            "value":"Golden Brown"
+        },
+        {
+            "trait_type":"Hat",
+            "value":"Stuntman Helmet"
+        },
+        {
+            "trait_type":"Mouth",
+            "value":"Bored Unshaven Dagger"
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "name":"MyNFT #2",
+    "image":"ipfs://QmeSjSinHpPnmXmspMjwiXyN6zS4E9zccariGR3jxcaWtq/2.png",
+    "attributes":[
+        {
+            "trait_type":"Background",
+            "value":"New Punk Blue"
+        },
+        {
+            "trait_type":"Clothes",
+            "value":"Black Suit"
+        },
+        {
+            "trait_type":"Eyes",
+            "value":"Sleepy"
+        },
+        {
+            "trait_type":"Fur",
+            "value":"Dark Brown"
+        },
+        {
+            "trait_type":"Hat",
+            "value":"Safari"
+        },
+        {
+            "trait_type":"Mouth",
+            "value":"Tongue Out"
+        }
+    ]
+}

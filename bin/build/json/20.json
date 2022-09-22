@@ -1,0 +1,34 @@
+{
+    "name":"MyNFT #20",
+    "image":"ipfs://QmeSjSinHpPnmXmspMjwiXyN6zS4E9zccariGR3jxcaWtq/20.png",
+    "attributes":[
+        {
+            "trait_type":"Background",
+            "value":"Orange"
+        },
+        {
+            "trait_type":"Clothes",
+            "value":"Work Vest"
+        },
+        {
+            "trait_type":"Earring",
+            "value":"Silver Hoop"
+        },
+        {
+            "trait_type":"Eyes",
+            "value":"X Eyes"
+        },
+        {
+            "trait_type":"Fur",
+            "value":"White"
+        },
+        {
+            "trait_type":"Hat",
+            "value":"Spinner Hat"
+        },
+        {
+            "trait_type":"Mouth",
+            "value":"Bored Unshaven Party horn"
+        }
+    ]
+}

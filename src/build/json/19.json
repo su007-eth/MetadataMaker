@@ -1,0 +1,30 @@
+{
+    "name":"MyNFT #19",
+    "image":"ipfs://QmeSjSinHpPnmXmspMjwiXyN6zS4E9zccariGR3jxcaWtq/19.png",
+    "attributes":[
+        {
+            "trait_type":"Background",
+            "value":"Army Green"
+        },
+        {
+            "trait_type":"Clothes",
+            "value":"Black Suit"
+        },
+        {
+            "trait_type":"Eyes",
+            "value":"Bored"
+        },
+        {
+            "trait_type":"Fur",
+            "value":"Dark Brown"
+        },
+        {
+            "trait_type":"Hat",
+            "value":"Vietnam Era Helmet"
+        },
+        {
+            "trait_type":"Mouth",
+            "value":"Bored"
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "name":"MyNFT #29",
+    "image":"ipfs://QmeSjSinHpPnmXmspMjwiXyN6zS4E9zccariGR3jxcaWtq/29.png",
+    "attributes":[
+        {
+            "trait_type":"Background",
+            "value":"Yellow"
+        },
+        {
+            "trait_type":"Clothes",
+            "value":"Tanktop"
+        },
+        {
+            "trait_type":"Eyes",
+            "value":"Bloodshot"
+        },
+        {
+            "trait_type":"Fur",
+            "value":"Death Bot"
+        },
+        {
+            "trait_type":"Hat",
+            "value":"Police Motorcycle Helmet"
+        },
+        {
+            "trait_type":"Mouth",
+            "value":"Bored Unshaven Party horn"
+        }
+    ]
+}

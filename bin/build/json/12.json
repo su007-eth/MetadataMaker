@@ -1,0 +1,30 @@
+{
+    "name":"MyNFT #12",
+    "image":"ipfs://QmeSjSinHpPnmXmspMjwiXyN6zS4E9zccariGR3jxcaWtq/12.png",
+    "attributes":[
+        {
+            "trait_type":"Background",
+            "value":"Army Green"
+        },
+        {
+            "trait_type":"Clothes",
+            "value":"Black Suit"
+        },
+        {
+            "trait_type":"Eyes",
+            "value":"Blindfold"
+        },
+        {
+            "trait_type":"Fur",
+            "value":"White"
+        },
+        {
+            "trait_type":"Hat",
+            "value":"Halo"
+        },
+        {
+            "trait_type":"Mouth",
+            "value":"Bored Pipe"
+        }
+    ]
+}

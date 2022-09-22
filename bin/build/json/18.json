@@ -1,0 +1,34 @@
+{
+    "name":"MyNFT #18",
+    "image":"ipfs://QmeSjSinHpPnmXmspMjwiXyN6zS4E9zccariGR3jxcaWtq/18.png",
+    "attributes":[
+        {
+            "trait_type":"Background",
+            "value":"Aquamarine"
+        },
+        {
+            "trait_type":"Clothes",
+            "value":"Black Suit"
+        },
+        {
+            "trait_type":"Earring",
+            "value":"Cross"
+        },
+        {
+            "trait_type":"Eyes",
+            "value":"Bored"
+        },
+        {
+            "trait_type":"Fur",
+            "value":"Black"
+        },
+        {
+            "trait_type":"Hat",
+            "value":"Bayc Hat Red"
+        },
+        {
+            "trait_type":"Mouth",
+            "value":"Bored Unshaven"
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "name":"MyNFT #4",
+    "image":"ipfs://QmeSjSinHpPnmXmspMjwiXyN6zS4E9zccariGR3jxcaWtq/4.png",
+    "attributes":[
+        {
+            "trait_type":"Background",
+            "value":"Blue"
+        },
+        {
+            "trait_type":"Clothes",
+            "value":"Sailor Shirt"
+        },
+        {
+            "trait_type":"Eyes",
+            "value":"Holographic"
+        },
+        {
+            "trait_type":"Fur",
+            "value":"Dmt"
+        },
+        {
+            "trait_type":"Hat",
+            "value":"Bayc Hat Black"
+        },
+        {
+            "trait_type":"Mouth",
+            "value":"Bored Unshaven Dagger"
+        }
+    ]
+}

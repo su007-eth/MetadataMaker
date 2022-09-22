@@ -1,0 +1,26 @@
+{
+    "name":"MyNFT #34",
+    "image":"ipfs://QmeSjSinHpPnmXmspMjwiXyN6zS4E9zccariGR3jxcaWtq/34.png",
+    "attributes":[
+        {
+            "trait_type":"Background",
+            "value":"Purple"
+        },
+        {
+            "trait_type":"Clothes",
+            "value":"Sleeveless Logo T"
+        },
+        {
+            "trait_type":"Eyes",
+            "value":"Coins"
+        },
+        {
+            "trait_type":"Fur",
+            "value":"Dmt"
+        },
+        {
+            "trait_type":"Mouth",
+            "value":"Bored Unshaven Party horn"
+        }
+    ]
+}

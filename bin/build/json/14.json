@@ -1,0 +1,30 @@
+{
+    "name":"MyNFT #14",
+    "image":"ipfs://QmeSjSinHpPnmXmspMjwiXyN6zS4E9zccariGR3jxcaWtq/14.png",
+    "attributes":[
+        {
+            "trait_type":"Background",
+            "value":"Aquamarine"
+        },
+        {
+            "trait_type":"Clothes",
+            "value":"Black Suit"
+        },
+        {
+            "trait_type":"Eyes",
+            "value":"Bloodshot"
+        },
+        {
+            "trait_type":"Fur",
+            "value":"Golden Brown"
+        },
+        {
+            "trait_type":"Hat",
+            "value":"Party Hat 2"
+        },
+        {
+            "trait_type":"Mouth",
+            "value":"Bored"
+        }
+    ]
+}

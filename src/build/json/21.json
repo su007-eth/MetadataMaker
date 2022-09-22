@@ -1,0 +1,30 @@
+{
+    "name":"MyNFT #21",
+    "image":"ipfs://QmeSjSinHpPnmXmspMjwiXyN6zS4E9zccariGR3jxcaWtq/21.png",
+    "attributes":[
+        {
+            "trait_type":"Background",
+            "value":"Army Green"
+        },
+        {
+            "trait_type":"Clothes",
+            "value":"Black Suit"
+        },
+        {
+            "trait_type":"Eyes",
+            "value":"Heart"
+        },
+        {
+            "trait_type":"Fur",
+            "value":"Red"
+        },
+        {
+            "trait_type":"Hat",
+            "value":"Army Hat"
+        },
+        {
+            "trait_type":"Mouth",
+            "value":"Grin Multicolored"
+        }
+    ]
+}

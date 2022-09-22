@@ -1,0 +1,30 @@
+{
+    "name":"MyNFT #11",
+    "image":"ipfs://QmeSjSinHpPnmXmspMjwiXyN6zS4E9zccariGR3jxcaWtq/11.png",
+    "attributes":[
+        {
+            "trait_type":"Background",
+            "value":"Aquamarine"
+        },
+        {
+            "trait_type":"Clothes",
+            "value":"Black Suit"
+        },
+        {
+            "trait_type":"Eyes",
+            "value":"Bloodshot"
+        },
+        {
+            "trait_type":"Fur",
+            "value":"Black"
+        },
+        {
+            "trait_type":"Hat",
+            "value":"Commie Hat"
+        },
+        {
+            "trait_type":"Mouth",
+            "value":"Bored Kazoo"
+        }
+    ]
+}

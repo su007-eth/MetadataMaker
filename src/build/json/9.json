@@ -1,0 +1,34 @@
+{
+    "name":"MyNFT #9",
+    "image":"ipfs://QmeSjSinHpPnmXmspMjwiXyN6zS4E9zccariGR3jxcaWtq/9.png",
+    "attributes":[
+        {
+            "trait_type":"Background",
+            "value":"Army Green"
+        },
+        {
+            "trait_type":"Clothes",
+            "value":"Bayc T Black"
+        },
+        {
+            "trait_type":"Earring",
+            "value":"Silver Hoop"
+        },
+        {
+            "trait_type":"Eyes",
+            "value":"Crazy"
+        },
+        {
+            "trait_type":"Fur",
+            "value":"White"
+        },
+        {
+            "trait_type":"Hat",
+            "value":"Short Mohawk"
+        },
+        {
+            "trait_type":"Mouth",
+            "value":"Bored Unshaven Party horn"
+        }
+    ]
+}
